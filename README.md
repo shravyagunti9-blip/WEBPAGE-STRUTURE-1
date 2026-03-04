@@ -16,4 +16,4 @@ In this task, I designed and developed a responsive webpage that adjusts to diff
 
 The main objective of this task is to provide a seamless and user-friendly experience regardless of screen size. The final output demonstrates proper alignment, readable content, and consistent design on all devices
 
-OUTPUT:
+OUTPUT:<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/2625c0ee-fba1-4723-b246-ecd057e2954d" />
